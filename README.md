@@ -1,4 +1,4 @@
-# FiNMate
+# FiNMate - Smart Investment Advisory
 
 A Django REST API backend for FINMATE, a smart investment advisory platform that helps users manage their financial transactions and get personalized investment recommendations.
 
